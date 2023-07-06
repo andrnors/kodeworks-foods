@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Maissuppe",
+    "link": "https://www.matprat.no/oppskrifter/familien/k/kyllinglar-med-cherrytomater/",
+    "description": "Kjøtt fra kyllinglåret er smakfullt og mørt og tåler tøffere behandling enn kyllingfilet. Her har du en deilig alt-i-ett-rett med grønnsaker og kylling, ferdig på under en time.",
+    "ingredients": ["1 spoon of tea", "1 fish", "1 can of mais"],
+    "approach": ["first do this", "Then do this", ""],
+    "img": "https://picsum.photos/1000/500"
+  },
+  {
+    "name": "KYLLINGLÅR MED CHERRYTOMATER",
+    "link": "https://www.matprat.no/oppskrifter/familien/k/kyllinglar-med-cherrytomater/",
+    "description": "Kjøtt fra kyllinglåret er smakfullt og mørt og tåler tøffere behandling enn kyllingfilet. Her har du en deilig alt-i-ett-rett med grønnsaker og kylling, ferdig på under en time.",
+    "ingredients": ["1 spoon of tea", "1 fish", "1 can of mais"],
+    "approach": [
+      "Tørk kyllinglårene med tørkepapir og ha dem i en bolle med revet sitronskall og-saft, halvparten av olivenoljen. Krydre med litt salt og pepper. Bland godt.",
+      "Skjær poteter, squash og løk i tynne skiver. Ha resten av oljen i bunnen av en vid ildfast form og legg skivene utover i formen, sammen med skrelte hvitløksbåter. Krydre med salt og pepper. Legg kyllingbitene på toppen.",
+      "Sett formen midt i ovnen på 220 °C og stek i 20 minutter.",
+      "Ta formen ut av ovnen og legg i tomater. Sett formen tilbake i stekeovnen i ytterligere 10 minutter, til kyllinglårene er gjennomstekt og tomatene er gjennomvarme. Dryss over spinat og hakket basilikum før servering."
+    ],
+    "img": "https://picsum.photos/1000/500"
+  }
+]
